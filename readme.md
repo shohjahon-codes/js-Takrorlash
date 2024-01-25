@@ -1,4 +1,4 @@
-# lesson -12<p>Mavzu : Object </p>
+# lesson -13<p>Vazifa o'tilgan mavzularni takrorlash </p>
  - **Obyekt :** JavaScript obyektga yo'naltirilgan dasturlash tilidir. Obyekt, ma'lumotlarni saqlash uchun bir qator xususiyatlar (properties) va uslublar (methods)ni o'z ichiga oladi. Masalan, document obyekti brauzerda HTML sahifaning elementlariga kirish imkonini beradi.
 
 ```
